@@ -1,10 +1,10 @@
 const typingEl = document.getElementById("typing");
 const phrases = [
   "BSIT Student",
-  "Game Developer",
+  "Junior Developer",
   "Aspiring Software Engineer",
   "Unity 2D • C# • SQL",
-  "Educational Games & UX"
+  "Technical Support"
 ];
 let phraseIndex = 0;
 let charIndex = 0;
